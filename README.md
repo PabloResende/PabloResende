@@ -1,6 +1,6 @@
 ### i'm a beginner programmer 😎
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WadeMcfild&show_icons=true&theme=monokai&layout=donut)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WadeMcfild&show_icons=true&theme=monokai&layout=compact)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WadeMcfild&langs_count=4&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 my social midia:  
