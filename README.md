@@ -1,7 +1,7 @@
 ### i'm a beginner programmer 😎
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WadeMcfild&show_icons=true&theme=monokai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WadeMcfild&layout=&hide_progress=truecompact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WadeMcfild&layout==truecompact&theme=monokai&hide_progress)](https://github.com/anuraghazra/github-readme-stats)
 
 my social midia:  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wademcfild@gmail.com)
