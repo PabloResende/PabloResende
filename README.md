@@ -1,6 +1,6 @@
 ### i'm a beginner programmer 😎
 
-![Top Langs](https://github-readme-stats-two-henna-36.vercel.app/api/top-langs/?username=WadeMcfild&layout=compact&theme=monokai)
+![Top Langs](https://github-readme-stats-7v8f.vercel.app/api/top-langs/?username=WadeMcfild&layout=compact&theme=monokai)
 
 Learning:  
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
