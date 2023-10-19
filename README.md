@@ -2,8 +2,6 @@
 
 ## **Hello, World!** 👋!
 
-Sou mais um aficionado por tecnologia, semper buscando novos stacks pra aprender, acho que todo mês o meu github ganha mais uma badge
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloresende&layout=compact&theme=dracula)
 
 ## Tecnologias e ferramentas 🖥️💻
