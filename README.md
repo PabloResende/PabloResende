@@ -1,7 +1,4 @@
 ## **Pablo Silva Carrilho de Resende**
-
-## **Hello, World!** 👋!
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloresende&layout=compact&theme=dracula)
 
 ## Tecnologias e ferramentas 🖥️💻
