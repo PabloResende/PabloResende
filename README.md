@@ -1,7 +1,7 @@
 ## **Pablo Silva Carrilho de Resende**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloresende&layout=compact&theme=dracula)
 
-## Tecnologias e ferramentas 🖥️💻
+## Technologies and tools 🖥️💻
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -22,7 +22,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-## Contatos 📱
+## Contacts 📱
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablosilvacarrilhoderesende@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-silva-carrilho-de-resende-069b7626a/)
